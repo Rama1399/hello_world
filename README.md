@@ -1,3 +1,5 @@
-# hello_world
-just anthor repository
-this was the first trial about githut
+# sample web page 
+creation navigation bar
+setting background image
+logos
+bottons
